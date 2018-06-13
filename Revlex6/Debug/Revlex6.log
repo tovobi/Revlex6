@@ -1,0 +1,7 @@
+﻿  CustomRotation.cpp
+c:\users\eb\documents\visual studio 2017\projects\revlex6\revlex6\wowpointers.h(136): warning C4305: 'initializing': truncation from 'unsigned int' to 'unsigned short'
+c:\users\eb\documents\visual studio 2017\projects\revlex6\revlex6\wowpointers.h(136): warning C4309: 'initializing': truncation of constant value
+c:\users\eb\documents\visual studio 2017\projects\revlex6\revlex6\vector3dlog.h(17): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+c:\users\eb\documents\visual studio 2017\projects\revlex6\revlex6\vector3dlog.h(18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+c:\users\eb\documents\visual studio 2017\projects\revlex6\revlex6\vector3dlog.h(19): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+  Revlex6.vcxproj -> C:\Users\eb\Documents\Visual Studio 2017\Projects\Revlex6\Debug\Revlex6.exe
